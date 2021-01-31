@@ -1,4 +1,7 @@
 ### Hi there 👋
+- I'm Lilly, I build systems to monitor other systems, and sometimes systems to monitor those! <br>
+- I work as the Operations Lead at [The Big Brother Group](https://bigbrother.group)
+- Want to contact me? Shoot an email to [lilly@bigbrother.group](mailto:lilly@bigbrother.group)
 
 <!--
 **limitress/limitress** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
